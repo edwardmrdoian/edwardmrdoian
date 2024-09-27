@@ -43,7 +43,3 @@ Hello! I'm **Edward**, a passionate **QA Automation Engineer** with 3 years of e
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/edward-m23/)
 - 📧 [Email](mailto:edomrdoian23@gmail.com)
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=edwardmrdoian.QA-Automation-Portfolio" alt="visitor badge"/>
-</p>
