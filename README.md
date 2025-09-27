@@ -37,8 +37,8 @@ Hello! I'm **Edward**, a passionate **QA Automation Engineer** with 3 years of e
 
 
 ## 📊 Statistics & Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwardmrdoian&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmrdoian&layout=compact&theme=radical)
+![edwardmrdoian's Stats](https://github-readme-stats.vercel.app/api?username=edwardmrdoian&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![edwardmrdoian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardmrdoian&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/edward-m23/)
