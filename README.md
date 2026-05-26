@@ -1,4 +1,4 @@
-# 🏆 Edward's QA Automation Portfolio
+# 🏆 Edward's Portfolio
 
 > **_This repository highlights my 4+ years of experience as a QA Automation Engineer, focusing on web, mobile, and API testing. It showcases my projects, skills, and tools I specialize in. Explore to see my work, and learn more about my automation journey!_**
 
